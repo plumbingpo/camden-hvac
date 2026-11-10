@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://camdenhvac.com/sitemap.xml
